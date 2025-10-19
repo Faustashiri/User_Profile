@@ -1,28 +1,29 @@
 # Домашнее задание №1 "Анкета пользователя"
 ## Стартовый экран
 ### Светлая тема
-<img width="540" height="1200" alt="Screenshot_20251019_223836" src="https://github.com/user-attachments/assets/75b7ee1f-869c-4fa5-a6b6-edef60fbe226" />
+<img width="540" height="1200" alt="Screenshot_20251020_004822" src="https://github.com/user-attachments/assets/e73b4826-fd93-4ff7-92fe-6d69a5d9bff7" />
 
 ### Тёмная тема
-<img width="540" height="1200" alt="Screenshot_20251019_223753" src="https://github.com/user-attachments/assets/aad8c0ba-08ef-4d9f-9e8d-d27a669c0ec3" />
+<img width="540" height="1200" alt="Screenshot_20251020_004849" src="https://github.com/user-attachments/assets/7e15f683-0b53-4ef2-aa7b-b4bdd89db4b7" />
 
 ## Выведенные данные
 ### Светлая тема
-<img width="540" height="1200" alt="Screenshot_20251019_223938" src="https://github.com/user-attachments/assets/81973dc5-81eb-4759-9a08-333236bf438c" />
+<img width="540" height="1200" alt="Screenshot_20251020_004933" src="https://github.com/user-attachments/assets/b5a600b5-441c-4281-9841-a31d01ed9f49" />
 
 ### Тёмная тема
-<img width="540" height="1200" alt="Screenshot_20251019_224125" src="https://github.com/user-attachments/assets/fddaad90-f05b-45ee-996e-2f4b48b5c509" />
+<img width="540" height="1200" alt="Screenshot_20251020_004910" src="https://github.com/user-attachments/assets/6899565d-de8c-45aa-879f-28e0ca5850d0" />
 
 ## Вывод ошибки
 ### Светлая тема
-<img width="540" height="1200" alt="Screenshot_20251019_224233" src="https://github.com/user-attachments/assets/d4d82278-351a-411a-baf7-d8fdcae1a577" />
+<img width="540" height="1200" alt="Screenshot_20251020_005007" src="https://github.com/user-attachments/assets/f6b5087b-868a-46cb-92a1-aeda4f02946e" />
 
 ### Тёмная тема
-<img width="540" height="1200" alt="Screenshot_20251019_224241" src="https://github.com/user-attachments/assets/f0148186-a5bb-4e24-a69f-5cc8b8219f22" />
+<img width="540" height="1200" alt="Screenshot_20251020_005014" src="https://github.com/user-attachments/assets/4529e8fb-be9c-41d2-8eba-fc0048958e3a" />
 
 ## Выбор аватара
 <img width="540" height="1200" alt="Screenshot_20251019_224300" src="https://github.com/user-attachments/assets/8b63f104-2cbc-4003-9799-2cef32aa8836" />
 
 ## Альбомная ориентация
-![Album](https://github.com/user-attachments/assets/84c1d2f0-b81a-48fe-9e0a-6ea18475f321)
+![Screen_recording_20251020_005153(1)](https://github.com/user-attachments/assets/ad990c3e-419e-4bed-a668-1c89f1eca479)
+
 # Кузнецов Владислав Павлович РИ-330940
