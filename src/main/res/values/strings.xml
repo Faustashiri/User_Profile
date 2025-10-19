@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User_Profile</string>
+
+        <!-- Метки -->
+        <string name="enter_name">Введите имя</string>
+        <string name="age_label">Возраст: %1$d</string>
+        <string name="gender_label">Пол:</string>
+        <string name="male">Мужской</string>
+        <string name="female">Женский</string>
+        <string name="subscribe">Хочу получать новости</string>
+
+        <!-- Кнопка -->
+        <string name="send_button">Отправить</string>
+
+        <!-- Сообщения -->
+        <string name="summary_title">Результат:</string>
+        <string name="name_empty_error">Введите имя, чтобы продолжить</string>
+</resources>
