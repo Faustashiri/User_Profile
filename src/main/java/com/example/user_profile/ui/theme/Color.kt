@@ -2,10 +2,15 @@ package com.example.user_profile.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Светлая тема
+val BeigeBackground = Color(0xFFFAF8F5)  // светло-бежевый фон
+val BeigeSurface = Color(0xFFF0ECE8)     // карточки / поля
+val BrownPrimary = Color(0xFF8D6E63)     // основной акцент — тёплый коричневый
+val BrownSecondary = Color(0xFFA1887F)   // второстепенный акцент
+val TextDark = Color(0xFF3E2723)         // текст
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Тёмная тема
+val DarkBackground = Color(0xFF2B2B28)   // фон
+val DarkSurface = Color(0xFF3E3B32)      // карточки / поля
+val BeigePrimaryDark = Color(0xFFD7CCC8) // акцент
+val TextLight = Color(0xFFF5F5DC)        // текст

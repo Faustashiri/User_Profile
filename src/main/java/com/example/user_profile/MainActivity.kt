@@ -18,8 +18,9 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
 import androidx.compose.material3.Checkbox
 import androidx.compose.material3.MaterialTheme
@@ -46,8 +47,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
 import com.example.user_profile.ui.theme.User_ProfileTheme
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -180,19 +179,24 @@ fun UserForm(
         Spacer(modifier = Modifier.height(16.dp))
 
         // Пол
-        Text(stringResource(R.string.gender_label))
-        Row {
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.Start,
+            modifier = Modifier.fillMaxWidth()
+        ) {
+            Text(text = "${stringResource(R.string.gender_label)} ", modifier = Modifier.padding(end = 8.dp))
+
             RadioButton(
                 selected = gender == "Мужской",
                 onClick = { gender = "Мужской" }
             )
-            Text(stringResource(R.string.male))
-            Spacer(modifier = Modifier.width(16.dp))
+            Text(text = stringResource(R.string.male), modifier = Modifier.padding(end = 16.dp))
+
             RadioButton(
                 selected = gender == "Женский",
                 onClick = { gender = "Женский" }
             )
-            Text(stringResource(R.string.female))
+            Text(text = stringResource(R.string.female))
         }
 
         Spacer(modifier = Modifier.height(16.dp))
